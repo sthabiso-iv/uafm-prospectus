@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "138796713868",
+    "project_id": "uniapplyforme-aps",
+    "storage_bucket": "uniapplyforme-aps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138796713868:android:9946620334169048b3b8a9",
+        "android_client_info": {
+          "package_name": "za.org.apply.app.apscalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138796713868-7vfoo7jd4l423290sj8jn0l25iofqn17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "za.org.apply.app.apscalculator",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "138796713868-3mvofbc45vu8117l461ien3bs34n9p52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXPoodp1u-hN4L4sicdJ37d7z_lhQZ8kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138796713868-3mvofbc45vu8117l461ien3bs34n9p52.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138796713868-69ca674tafino4crq7o55q0mb3tq0mhl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.org.apply.apscalculator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138796713868:android:a5574b33bc2729f2b3b8a9",
+        "android_client_info": {
+          "package_name": "za.org.apply.app.prospectuses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138796713868-vbc715qmg0bscgrgd22116u56mccbreo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "za.org.apply.app.prospectuses",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "138796713868-3mvofbc45vu8117l461ien3bs34n9p52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXPoodp1u-hN4L4sicdJ37d7z_lhQZ8kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138796713868-3mvofbc45vu8117l461ien3bs34n9p52.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138796713868-69ca674tafino4crq7o55q0mb3tq0mhl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.org.apply.apscalculator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138796713868:android:25b47b6ded7b6d0ab3b8a9",
+        "android_client_info": {
+          "package_name": "za.org.apply.apscalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138796713868-3elb01v82iv54s0mg8mkc67jaap6mn27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "za.org.apply.apscalculator",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "138796713868-3mvofbc45vu8117l461ien3bs34n9p52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXPoodp1u-hN4L4sicdJ37d7z_lhQZ8kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138796713868-3mvofbc45vu8117l461ien3bs34n9p52.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138796713868-69ca674tafino4crq7o55q0mb3tq0mhl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "za.org.apply.apscalculator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
